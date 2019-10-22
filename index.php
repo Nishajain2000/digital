@@ -72,6 +72,7 @@ else if((month==11 && (day>=1||day<=30))){
     info="sagittarius";
 }                                      
 else if((month==12 && (day>=1||day<=31))){
+	info="capricorn";
 }                                      
 else{
     text="we are unable to give you information";
